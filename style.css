@@ -709,6 +709,13 @@ main {
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 10px;
+    width: 200px;
+    height: auto;
+  }
+
+  .line img {
+    width: 250px;
+    height: auto;
   }
 
   /* section three */
